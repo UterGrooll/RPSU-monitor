@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.spec
+build/
+dist/
+disttmp/
+installer/Output/
+
+# Runtime-данные приложения
+devices.json
+*_data.csv
+*_utc_data.csv
